@@ -1,9 +1,22 @@
 # PINGUPILLS 🐧
 
-<p align="center"><img src="images/logo/LOGO-PINGUPILLS-V3.png" width=600px></p>
+<div align="center">
+  
+<img src="images/logo/LOGO-PINGUPILLS-V3.png" width=600px>
 
-Struggling to remember your medication schedule or keep track of your pill count at home? `Look no further – PINGU has got you covered!`
+<br>
+<br>
 
+<a href="https://github.com/ricardoyang00/pingu-pills/releases/tag/beta1">
+<img src="https://img.shields.io/github/downloads/ricardoyang00/pingu-pills/beta1/app-release.apk?style=for-the-badge&color=orange"></a>
+
+</div>
+
+<br>
+<br>
+
+
+Struggling to remember your medication schedule or keep track of your pill count at home? **Look no further – PINGU has got you covered!**
 With PINGU, you can set alarms to ensure you never miss a dose again and effortlessly keep track of your medicine stock.
 
 🚀 Let's embrace a healthy lifestyle with __PINGUPILLS__!
