@@ -13,7 +13,6 @@ doc/api/
 
 # dotenv environment variables file
 .env*
-env/
 google-services.json
 
 # Avoid committing generated Javascript files:
