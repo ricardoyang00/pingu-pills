@@ -40,6 +40,9 @@ With PINGU, you can set alarms to ensure you never miss a dose again and effortl
 ![](images/full/image2.png)
 
 
+## Environment Settings
+For more informations, click [here](lib/env/README.md).
+
 ## Acknowledgements
 
 The logo was designed by Ricardo Yang.
